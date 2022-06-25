@@ -19558,7 +19558,7 @@ if(k==null)k="NA"
 l=l.b
 if(l==null)l="NA"
 p=B.M7.j(0)
-o=A.iV("http://localhost:8000/api/imageSearch/")
+o=A.iV("https://541c-122-167-56-180.in.ngrok.io/api/imageSearch/")
 n=t.N
 l=A.ao(["Content-Type","application/json; charset=UTF-8","Authorization","Bearer "+l],n,n)
 s=3
@@ -19573,7 +19573,7 @@ adk(a){var s=0,r=A.W(t.j),q,p,o,n,m
 var $async$adk=A.X(function(b,c){if(b===1)return A.T(c,r)
 while(true)switch(s){case 0:m=$.Co().b
 if(m==null)m="NA"
-p=A.iV("http://localhost:8000/api/nameSearch/")
+p=A.iV("https://541c-122-167-56-180.in.ngrok.io/api/nameSearch/")
 o=t.N
 m=A.ao(["Content-Type","application/json; charset=UTF-8","Authorization","Bearer "+m],o,o)
 s=3
@@ -19588,7 +19588,7 @@ adb(a){var s=0,r=A.W(t.j),q,p,o,n,m
 var $async$adb=A.X(function(b,c){if(b===1)return A.T(c,r)
 while(true)switch(s){case 0:m=$.Co().b
 if(m==null)m="NA"
-p=A.iV("http://localhost:8000/api/locationSearch/")
+p=A.iV("https://541c-122-167-56-180.in.ngrok.io/api/locationSearch/")
 o=t.N
 m=A.ao(["Content-Type","application/json; charset=UTF-8","Authorization","Bearer "+m],o,o)
 s=3
