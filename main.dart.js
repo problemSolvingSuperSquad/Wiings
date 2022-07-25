@@ -19449,7 +19449,7 @@ avm(a,b){if(b!==a.a)throw A.c(A.mb(u.r))},
 a_k:function a_k(){},
 acN(a,b,c,d,e){var s=0,r=A.W(t.j),q,p,o,n,m
 var $async$acN=A.X(function(f,g){if(f===1)return A.T(g,r)
-while(true)switch(s){case 0:p=A.iV("https://1479-122-171-149-0.in.ngrok.io/api/users/register/")
+while(true)switch(s){case 0:p=A.iV("/api/users/register/")
 o=t.N
 n=A.ao(["Content-Type","application/json; charset=UTF-8"],o,o)
 s=3
@@ -68915,10 +68915,10 @@ B.dI=new A.mA(1,"low")
 B.zn=new A.mr(B.vl,B.eQ)
 B.aA=new A.uz(0,"rectangle")
 B.vA=new A.el(null,B.zn,null,null,null,null,B.aA)
-B.vj=new A.kx("images/Loginpage.png",null,null)
+B.vj=new A.kx("images/Loginpage.jpeg",null,null)
 B.zm=new A.mr(B.vj,B.eQ)
 B.vB=new A.el(null,B.zm,null,null,null,null,B.aA)
-B.vk=new A.kx("images/Signup.png",null,null)
+B.vk=new A.kx("images/Signup.jpeg",null,null)
 B.zl=new A.mr(B.vk,B.eQ)
 B.vC=new A.el(null,B.zl,null,null,null,null,B.aA)
 B.lg=new A.ux(6,"scaleDown")
